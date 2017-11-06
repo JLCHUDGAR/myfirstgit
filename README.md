@@ -1,2 +1,3 @@
 # myfirstgit
-my first git
+
+my very first project in git!
